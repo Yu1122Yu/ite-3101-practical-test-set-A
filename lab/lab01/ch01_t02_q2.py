@@ -1,6 +1,7 @@
 def main():
     try:
         upper length*10.5
+        lower
     pass
 
 
