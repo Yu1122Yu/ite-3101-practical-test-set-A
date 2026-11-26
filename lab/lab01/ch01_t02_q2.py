@@ -1,5 +1,5 @@
 def main():
-    # Replace pass with your Python code.
+    # Replace pass with your Python c
     pass
 
 
